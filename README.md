@@ -26,7 +26,7 @@ On the image below - the top computer would be the host computer. The three comp
 
 
 
-
+<img src="folder/VMs.png">
 
 
 
