@@ -94,7 +94,7 @@ Since this HDD is going to be dynamically allocated (option on the middle-right 
 Now you will see MyVM listed on the VirtualBox dashboard. Before we start the VM we can modify the settings of the VM if we want. Generally you might want to assign more processors, change the networking adapters and mount an ISO.
 
 
- <img src="">
+ <img src="folder/VM-Settings.jpg">
 
  
  
@@ -102,6 +102,9 @@ Increasing the processor CPUs can greatly improve the performance of your VM, so
 Pro tip: Storing the VM's hard disk file on an SSD will also significantly increase the VMs performance.
  
 And that is all we need to do to create the VM. Of course we can't start the VM yet because we haven't downloaded or attached an operating system ISO... But we will cover that in the next section.
+
+<img src="folder/VM-Settings.jpg">
+
 
 <h2>Creating a Virtual Network with VirtualBox</h2>
 Virtual Networks allow you to connect your VMs to whatever you want. There are several different types of networks you can create with VirtualBox and the one you chose will depend on your requirements.
