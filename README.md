@@ -103,7 +103,7 @@ Pro tip: Storing the VM's hard disk file on an SSD will also significantly incre
  
 And that is all we need to do to create the VM. Of course we can't start the VM yet because we haven't downloaded or attached an operating system ISO... But we will cover that in the next section.
 
-<img src="folder/VM-Settings.jpg">
+<img src="folder/CPUs.jpg">
 
 
 <h2>Creating a Virtual Network with VirtualBox</h2>
