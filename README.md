@@ -210,7 +210,7 @@ Right click on your VM and select settings then open the Storage tab. From there
 Click OK and now when we launch the VM you will be able to begin your OS installation.
 I mounted a Windows Server 2016 ISO so when I launch the VM I will see the installation screen for this OS.
 
-<img src="folder/Attach-an-ISO.jpg">
+<img src="folder/Windows-Server-2016-Install-2.jpg">
  
 Now you can run through your OS installation and complete your lab setup.
 Wrapping it Up...
