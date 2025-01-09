@@ -167,7 +167,7 @@ This will create a new NAT Network. If I want to modify the subnet, disable DHCP
 
 
 
-<img src="folder/Host-Only-Network-Adapters.jpg">
+<img src="folder/NAT-Network-2.jpg">
 
 
 
@@ -178,7 +178,7 @@ Configure the Networking tab for your chosen network type. Again, the easiest so
 
 
 
-<img src="folder/Host-Only-Network-Adapters.jpg">
+<img src="">
 
 
  
