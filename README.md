@@ -114,7 +114,7 @@ Keep in mind that you won't be able to access all of these network types if you 
 Here is an overview of the different network types you could create:
 
 
-<img src="folder/CPUs.jpg">
+<img src="folder/VirtualBox-VM-Adapter-Types.jpg">
 
 
  
@@ -128,6 +128,11 @@ Using NAT is as simple as right-clicking your VM and selecting Settings then nav
 This network is the same as NAT, but it allows your VMs to communicate to other VMs that are attached to the same NAT network. Use this when your labs use multiple VMs and need internet connectivity.
  
 You can create a NAT Network by clicking on File > Preferences. Select the Network tab and then click the plus button to create a new NAT Network.
+
+
+<img src="folder/VirtualBox-VM-Adapter-Types.jpg">
+
+
  
 
 <h2>Bridged Adapter</h2>
