@@ -150,7 +150,7 @@ This is essentially the same as an internal network, except that your host compu
 You can create a host-only network by select File > Host Network Manager
 
 
-<img src="folder/NAT-Network.jpg">
+<img src="folder/Host-Only-Network-Adapters.jpg">
 
 
  
