@@ -112,6 +112,11 @@ Virtual Networks allow you to connect your VMs to whatever you want. There are s
 Keep in mind that you won't be able to access all of these network types if you haven't created a VM because some of them are configured from within the VM settings.
  
 Here is an overview of the different network types you could create:
+
+
+<img src="folder/CPUs.jpg">
+
+
  
 
 <h2>NAT</h2>
