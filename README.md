@@ -126,11 +126,11 @@ Using NAT is as simple as right-clicking your VM and selecting Settings then nav
 
 <h2>NAT Network</h2>
 This network is the same as NAT, but it allows your VMs to communicate to other VMs that are attached to the same NAT network. Use this when your labs use multiple VMs and need internet connectivity.
- 
+
 You can create a NAT Network by clicking on File > Preferences. Select the Network tab and then click the plus button to create a new NAT Network.
 
 
-<img src="folder/VirtualBox-VM-Adapter-Types.jpg">
+<img src="folder/NAT-Network.jpg">
 
 
  
@@ -148,6 +148,11 @@ Using an Internal Network is as simple as right-clicking your VM and selecting S
 This is essentially the same as an internal network, except that your host computer will have a direct IP connection to the VM. Meaning you can RDP, SSH or ping the VMs from the host computer. Use this network type when you will need direct access to the VMs from your host computer. It is commonly used for test web servers (think copying files from the host computer to the VM web server, or directly editing the code on the web server VM from your host computer.
  
 You can create a host-only network by select File > Host Network Manager
+
+
+<img src="folder/NAT-Network.jpg">
+
+
  
 
 <h2>Generic Driver</h2>
