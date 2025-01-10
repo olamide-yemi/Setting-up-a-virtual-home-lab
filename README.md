@@ -52,8 +52,6 @@ Download Oracle VM VirtualBox by <a href="https://www.virtualbox.org/wiki/Downlo
 
 
 
-
-
 <img src="folder/VirtualBox-Install.jpg">
 
 
@@ -190,7 +188,7 @@ Next we need an operating system (OS) to install on our Virtual Machines. You co
  
 The easiest way to find what you're looking for is to simply google the name of your operating system with "ISO download" in the search.  For example if you want Windows Server 2016, just search 
 
-<h2>"Windows Server 2016 ISO Download".</h2>
+"Windows Server 2016 ISO downloas"
 You should ONLY download ISOs from official websites. This means you shouldn't download Windows Server from a website like "sneakyfreecdkeys.com"...
 
 I will still provide links to the most common operating systems that people want to install below. Keep in mind if the link is dead you can just run a quick google search and easily find the download.
