@@ -1,9 +1,8 @@
 # Setting-up-a-virtual-home-lab
 Setting up a virtual home lab
-I built a free virtual IT lab from scratch on my home computer using open-source software.
+Using open-source software, I created a free virtual IT lab from scratch on my personal PC.
  
-In the early 2000s the only way one could have built an IT lab was to purchase physical servers or re-purpose old computers. While this can be very beneficial as far as IT experience and skills, it can be much faster simply to build a free virtualized IT lab.
- 
+The main options for building an IT lab in the early 2000s were to buy actual servers or repurpose outdated computers. In terms of IT expertise and abilities, this can be very helpful, but it can be quicker to just create a free virtualized IT lab.
 Let's dive in!
 
 <h2>Index</h2>
@@ -19,7 +18,7 @@ Let's dive in!
 </ul> 
 
 <h2>Virtualization Overview</h2>
-So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
+In any case, what exactly is virtualization? Virtualization, as used in IT, is essentially the process of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
  
 
 
